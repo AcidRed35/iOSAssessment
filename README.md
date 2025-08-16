@@ -17,11 +17,10 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/a6a7b30f7682455cb13cdf19042ce926">
-    </a>
-    <a href="https://www.loom.com/share/a6a7b30f7682455cb13cdf19042ce926">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a6a7b30f7682455cb13cdf19042ce926-f8d1a95389e0d6f6-full-play.gif">
     </a>
  </div>
+
  
 ## App Brainstorming (Step 4)
 
