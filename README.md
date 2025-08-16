@@ -24,6 +24,21 @@ The following **required** functionality is completed:
  
 ## App Brainstorming (Step 4)
 
+Example App: NYTimes
+Quick to load content.
+Simple and intuitive navigation.
+
+
+Example App: Tweek
+Non cluttered layout.
+Easy to manage tasks on the fly.
+
+
+Example App: Project Indigo
+Camera app that makes unprocessed images look go.
+Ability to quickly utilize more professional toggles if needed.
+
+I want a simplified home dashboard app. User can load details for certain processes to be monitored and quickly reference in a single page. To include, but not limited to, media server status, smart home status, power outage details, battery level and runtime of network devices, time/date of most recent access. Click through to view additional details or take action. Ideally, easy to add and maintain different nodes.
 ## Notes
 
 Describe any challenges encountered while building the app.
